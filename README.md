@@ -18,5 +18,8 @@ Learn about Path Planning Using Potential Functions. Report is provided giving a
 
 
 
-https://user-images.githubusercontent.com/37467941/122727177-65369200-d294-11eb-9621-4adf89cb762b.mp4
+
+https://user-images.githubusercontent.com/37467941/122727322-8b5c3200-d294-11eb-8322-a48da8954d96.mp4
+
+
 
